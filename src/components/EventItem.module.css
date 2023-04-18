@@ -19,6 +19,7 @@
 
 .actions a,
 .actions button {
+  color: var(--color-primary-800);
   padding: 0.25rem 1rem;
   text-decoration: none;
   font: inherit;

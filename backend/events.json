@@ -2,10 +2,38 @@
   "events": [
     {
       "id": "e1",
-      "title": "A dummy event",
+      "title": "An event",
       "date": "2023-02-22",
       "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
       "description": "Join this amazing event and connect with fellow developers."
+    },
+    {
+      "id": "e-135156528",
+      "title": "Hackathon",
+      "date": "2023-03-22",
+      "image": "https://www.usna.edu/NewsCenter/2014/images/cyber.jpg",
+      "description": "Let's build our future."
+    },
+    {
+      "id": "e-35728",
+      "title": "Mega Kebab event",
+      "date": "2023-04-22",
+      "image": "https://community.connection.com/wp-content/uploads/2019/02/857456-ISSANH-Virtue-BLOG.jpg",
+      "description": "You won't eat 'em all."
+    },
+    {
+      "id": "e-765337",
+      "title": "React event",
+      "date": "2023-04-22",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/arrowhitech.com/wp-content/uploads/2021/09/01031030/ReactJS.png",
+      "description": "The best react event ever."
+    },
+    {
+      "id": "e-468036",
+      "title": "NextJs event",
+      "date": "2023-04-22",
+      "image": "https://blog.logrocket.com/wp-content/uploads/2022/08/redirects-next-js.png",
+      "description": "Best SPA, build with us."
     }
   ]
 }
