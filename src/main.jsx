@@ -14,7 +14,7 @@ import RootLayout from './pages/RootLayout';
 import EventsRootLayout from './pages/EventsRootLayout';
 import ErrorPage from './pages/ErrorPage';
 import { action as manipulateEventAction } from './components/EventForm';
-import NewsletterPage from './pages/NewsletterPage';
+import NewsletterPage, { action as newsletterAction} from './pages/NewsletterPage';
 
 import './index.css'
 

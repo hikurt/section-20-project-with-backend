@@ -6,7 +6,7 @@ import classes from './NewsletterSignup.module.css';
 
 function NewsletterSignup() {
   const fetcher = useFetcher();
-  fetcher.
+  
 
   return (
     <fetcher.Form 
