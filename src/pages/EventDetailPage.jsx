@@ -53,11 +53,11 @@ async function loadEvents() {
   }
 }
 
-export function loader({request, params}) {
+export async function loader({request, params}) {
   const id = params.eventId;
 
   return defer({
-    event: loadEvent(id),
+    event: await loadEvent(id),
     events: loadEvents(),
   });
 }
